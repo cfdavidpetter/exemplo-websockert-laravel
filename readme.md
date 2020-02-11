@@ -33,7 +33,7 @@ node socket.js
 Com os três rodando agora você pode acessar [localhost:8000](https://localhost:8000).
 
 ## Contribuições
-Pull requests são bem-vindos.
+Pull requests são bem-vindos :)
 
 ## Licença
 [MIT](https://choosealicense.com/licenses/mit/)
