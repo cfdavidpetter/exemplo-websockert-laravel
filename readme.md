@@ -1,6 +1,7 @@
 # Jokenpo com Laravel, Vue e WebSocket
 
 Exemplo do jogo Jokenpo com Laravel, Vue e WebSocket.
+.
 
 ## Installation
 
